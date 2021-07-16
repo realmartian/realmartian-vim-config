@@ -95,4 +95,5 @@ set smartindent
 set wildmenu
 set wildmode=full
 set number
+set nowrap
 

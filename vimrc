@@ -11,6 +11,9 @@ Plug 'phanviet/vim-monokai-pro'  " Color Scheme - Monokai Pro
 Plug 'mattn/emmet-vim'
 Plug 'MikeCoder/code-fold.vim'
 Plug 'preservim/nerdtree'
+Plug 'jelera/vim-javascript-syntax'
+Plug 'tpope/vim-rails'
+Plug 'rust-lang/rust.vim'
 call plug#end()
 
 " --------------------------------------

@@ -6,8 +6,8 @@ filetype plugin indent on
 "  Setup/Enable Plugins
 " ----------------------
 call plug#begin('~/.vim/plugged')
-Plug 'joshdick/onedark.vim'
-Plug 'phanviet/vim-monokai-pro'
+Plug 'joshdick/onedark.vim'  " Color Scheme - OneDark
+Plug 'phanviet/vim-monokai-pro'  " Color Scheme - Monokai Pro
 Plug 'mattn/emmet-vim'
 Plug 'MikeCoder/code-fold.vim'
 Plug 'preservim/nerdtree'
